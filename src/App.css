@@ -33,6 +33,10 @@
   font-size: x-large;
 }
 
+.clue {
+  font-size: x-large;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
