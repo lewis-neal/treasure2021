@@ -2,7 +2,7 @@
   "name": "treasure2021",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://lewis-neal.github.io/treasure2021",
+  "homepage": "https://lneal.dev/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
