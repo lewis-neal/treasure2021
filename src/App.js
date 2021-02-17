@@ -19,7 +19,7 @@ class App extends React.Component {
     let display = <input type="text" placeholder="Password" className="code-text-box" onChange={this.textChange}></input>;
 
     if (this.state.success) {
-      display = <div><p className="clue">A <b>cipher</b> worthy of a king.. or a <b>Caesar</b> to be more exact.</p><p>Fc vlr yrjmba fkql Ba Pebboxk lk qeb pqobbq, texq jfdeq eb exsb tfqe efj?</p></div>;
+      display = <div><p className="clue">A <b>cipher</b> worthy of a king.. or a <b>Caesar</b> to be more exact.</p><p>Li brx expshg lqwr Hg Vkhhudq rq wkh vwuhhw, zkdw pljkw kh kdyh zlwk klp?</p></div>;
     }
     return (
       <div className="App">
